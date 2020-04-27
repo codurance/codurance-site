@@ -32,8 +32,6 @@ defaults:
   values:
     layout: page
 permalink: pretty
-
-
 theme: minima
 plugins:
-  - jekyll-feed
+- jekyll-feed
